@@ -1,0 +1,15 @@
+/home/francisco/Projetos/CChar/HelloWorld/bin/Debug/net8.0/HelloWorld
+/home/francisco/Projetos/CChar/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/home/francisco/Projetos/CChar/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/home/francisco/Projetos/CChar/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/home/francisco/Projetos/CChar/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/home/francisco/Projetos/CChar/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/francisco/Projetos/CChar/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/home/francisco/Projetos/CChar/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/home/francisco/Projetos/CChar/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/francisco/Projetos/CChar/HelloWorld/obj/Debug/net8.0/HelloWorld.sourcelink.json
+/home/francisco/Projetos/CChar/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/home/francisco/Projetos/CChar/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/home/francisco/Projetos/CChar/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/home/francisco/Projetos/CChar/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/home/francisco/Projetos/CChar/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
